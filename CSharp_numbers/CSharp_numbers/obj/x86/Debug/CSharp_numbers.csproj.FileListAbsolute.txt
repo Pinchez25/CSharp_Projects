@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_numbers\bin\Debug\CSharp_numbers.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_numbers\bin\Debug\CSharp_numbers.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_numbers\obj\x86\Debug\CSharp_numbers.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_numbers\obj\x86\Debug\CSharp_numbers.pdb

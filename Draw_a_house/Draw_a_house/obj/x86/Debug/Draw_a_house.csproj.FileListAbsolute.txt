@@ -1,0 +1,9 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Draw_a_house\bin\Debug\Draw_a_house.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Draw_a_house\bin\Debug\Draw_a_house.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Draw_a_house\obj\x86\Debug\Draw_a_house.Form1.resources
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Draw_a_house\obj\x86\Debug\Draw_a_house.Properties.Resources.resources
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Draw_a_house\obj\x86\Debug\Draw_a_house.csproj.GenerateResource.Cache
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Draw_a_house\obj\x86\Debug\Draw_a_house.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Draw_a_house\obj\x86\Debug\Draw_a_house.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\Draw_a_house\Draw_a_house\obj\x86\Debug\Draw_a_house.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\Draw_a_house\Draw_a_house\obj\x86\Debug\Draw_a_house.pdb

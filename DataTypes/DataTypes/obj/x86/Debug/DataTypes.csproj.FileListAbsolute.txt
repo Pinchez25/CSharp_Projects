@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\DataTypes\obj\x86\Debug\DataTypes.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\DataTypes\obj\x86\Debug\DataTypes.pdb

@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Strings\bin\Debug\CSharp_Strings.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Strings\bin\Debug\CSharp_Strings.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Strings\obj\x86\Debug\CSharp_Strings.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Strings\obj\x86\Debug\CSharp_Strings.pdb

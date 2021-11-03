@@ -1,0 +1,6 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Switch_statements\bin\Debug\CSharp_Switch_statements.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Switch_statements\bin\Debug\CSharp_Switch_statements.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Switch_statements\obj\x86\Debug\CSharp_Switch_statements.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Switch_statements\obj\x86\Debug\CSharp_Switch_statements.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\CSharp_Switch_statements\CSharp_Switch_statements\obj\x86\Debug\CSharp_Switch_statements.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\CSharp_Switch_statements\CSharp_Switch_statements\obj\x86\Debug\CSharp_Switch_statements.pdb
