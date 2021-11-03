@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Getter_Setters\bin\Debug\Getter_Setters.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Getter_Setters\bin\Debug\Getter_Setters.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Getter_Setters\obj\x86\Debug\Getter_Setters.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Getter_Setters\obj\x86\Debug\Getter_Setters.pdb

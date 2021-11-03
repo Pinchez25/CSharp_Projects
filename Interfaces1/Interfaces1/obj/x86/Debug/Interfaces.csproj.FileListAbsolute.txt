@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Interfaces\obj\x86\Debug\Interfaces.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Interfaces\obj\x86\Debug\Interfaces.pdb

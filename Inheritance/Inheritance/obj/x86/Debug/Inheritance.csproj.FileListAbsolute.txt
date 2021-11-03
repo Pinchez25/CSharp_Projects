@@ -1,0 +1,6 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Inheritance\obj\x86\Debug\Inheritance.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb

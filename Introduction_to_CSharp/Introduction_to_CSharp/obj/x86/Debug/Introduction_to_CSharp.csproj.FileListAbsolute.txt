@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Introduction_to_CSharp\bin\Debug\Introduction_to_CSharp.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Introduction_to_CSharp\bin\Debug\Introduction_to_CSharp.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Introduction_to_CSharp\obj\x86\Debug\Introduction_to_CSharp.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Introduction_to_CSharp\obj\x86\Debug\Introduction_to_CSharp.pdb
