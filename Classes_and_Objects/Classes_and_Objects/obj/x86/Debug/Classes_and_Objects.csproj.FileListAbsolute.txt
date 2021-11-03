@@ -1,0 +1,6 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Classes_and_Objects\bin\Debug\Classes_and_Objects.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Classes_and_Objects\bin\Debug\Classes_and_Objects.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Classes_and_Objects\obj\x86\Debug\Classes_and_Objects.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Classes_and_Objects\obj\x86\Debug\Classes_and_Objects.pdb
+C:\Users\JOSIAH MWANGI\Documents\Visual Studio 2010\Projects\Classes_and_Objects\Classes_and_Objects\obj\x86\Debug\Classes_and_Objects.exe
+C:\Users\JOSIAH MWANGI\Documents\Visual Studio 2010\Projects\Classes_and_Objects\Classes_and_Objects\obj\x86\Debug\Classes_and_Objects.pdb

@@ -1,0 +1,6 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Collections\bin\Debug\CSharp_Collections.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Collections\bin\Debug\CSharp_Collections.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Collections\obj\x86\Debug\CSharp_Collections.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Collections\obj\x86\Debug\CSharp_Collections.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\CSharp_Collections\CSharp_Collections\obj\x86\Debug\CSharp_Collections.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\CSharp_Collections\CSharp_Collections\obj\x86\Debug\CSharp_Collections.pdb

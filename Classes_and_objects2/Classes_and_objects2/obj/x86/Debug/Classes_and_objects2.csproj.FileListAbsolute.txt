@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Classes_and_objects2\bin\Debug\Classes_and_objects2.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Classes_and_objects2\bin\Debug\Classes_and_objects2.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Classes_and_objects2\obj\x86\Debug\Classes_and_objects2.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Classes_and_objects2\obj\x86\Debug\Classes_and_objects2.pdb

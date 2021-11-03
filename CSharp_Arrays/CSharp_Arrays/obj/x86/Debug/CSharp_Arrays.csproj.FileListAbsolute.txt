@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Arrays\bin\Debug\CSharp_Arrays.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Arrays\bin\Debug\CSharp_Arrays.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Arrays\obj\x86\Debug\CSharp_Arrays.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\CSharp_Arrays\obj\x86\Debug\CSharp_Arrays.pdb
