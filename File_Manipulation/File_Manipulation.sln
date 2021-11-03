@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Manipulation", "File_Manipulation\File_Manipulation.csproj", "{FDBEFDE8-74C2-4142-8906-8D252C52F3F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_Write_Files", "Read_Write_Files\Read_Write_Files.csproj", "{2B9A1612-25F1-4E55-BDAF-F333420E0F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBEFDE8-74C2-4142-8906-8D252C52F3F5}.Debug|x86.ActiveCfg = Debug|x86
+		{FDBEFDE8-74C2-4142-8906-8D252C52F3F5}.Debug|x86.Build.0 = Debug|x86
+		{FDBEFDE8-74C2-4142-8906-8D252C52F3F5}.Release|x86.ActiveCfg = Release|x86
+		{FDBEFDE8-74C2-4142-8906-8D252C52F3F5}.Release|x86.Build.0 = Release|x86
+		{2B9A1612-25F1-4E55-BDAF-F333420E0F7C}.Debug|x86.ActiveCfg = Debug|x86
+		{2B9A1612-25F1-4E55-BDAF-F333420E0F7C}.Debug|x86.Build.0 = Debug|x86
+		{2B9A1612-25F1-4E55-BDAF-F333420E0F7C}.Release|x86.ActiveCfg = Release|x86
+		{2B9A1612-25F1-4E55-BDAF-F333420E0F7C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

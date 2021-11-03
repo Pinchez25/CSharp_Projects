@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Exception_handling\bin\Debug\Exception_handling.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Exception_handling\bin\Debug\Exception_handling.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Exception_handling\obj\x86\Debug\Exception_handling.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Exception_handling\obj\x86\Debug\Exception_handling.pdb

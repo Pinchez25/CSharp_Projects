@@ -1,0 +1,4 @@
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\File_Manipulation\Read_Write_Files\bin\Debug\Read_Write_Files.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\File_Manipulation\Read_Write_Files\bin\Debug\Read_Write_Files.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\File_Manipulation\Read_Write_Files\obj\x86\Debug\Read_Write_Files.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\File_Manipulation\Read_Write_Files\obj\x86\Debug\Read_Write_Files.pdb

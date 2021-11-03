@@ -1,0 +1,8 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\File_Manipulation\bin\Debug\File_Manipulation.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\File_Manipulation\bin\Debug\File_Manipulation.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\File_Manipulation\obj\x86\Debug\File_Manipulation.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\File_Manipulation\obj\x86\Debug\File_Manipulation.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\File_Manipulation\File_Manipulation\obj\x86\Debug\File_Manipulation.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\File_Manipulation\File_Manipulation\obj\x86\Debug\File_Manipulation.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\File_Manipulation\File_Manipulation\bin\Debug\File_Manipulation.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\File_Manipulation\File_Manipulation\bin\Debug\File_Manipulation.pdb

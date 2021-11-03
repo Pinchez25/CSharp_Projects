@@ -1,0 +1,6 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Explicit_Interface_Implementation\bin\Debug\Explicit_Interface_Implementation.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Explicit_Interface_Implementation\bin\Debug\Explicit_Interface_Implementation.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Explicit_Interface_Implementation\obj\x86\Debug\Explicit_Interface_Implementation.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Explicit_Interface_Implementation\obj\x86\Debug\Explicit_Interface_Implementation.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\Explicit_Interface_Implementation\Explicit_Interface_Implementation\obj\x86\Debug\Explicit_Interface_Implementation.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\Explicit_Interface_Implementation\Explicit_Interface_Implementation\obj\x86\Debug\Explicit_Interface_Implementation.pdb

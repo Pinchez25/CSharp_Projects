@@ -1,0 +1,6 @@
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Events_and_Delegates\bin\Debug\Events_and_Delegates.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Events_and_Delegates\bin\Debug\Events_and_Delegates.pdb
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Events_and_Delegates\obj\x86\Debug\Events_and_Delegates.exe
+C:\Users\JOSIAH MWANGI\AppData\Local\Temporary Projects\Events_and_Delegates\obj\x86\Debug\Events_and_Delegates.pdb
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\Events_and_Delegates\Events_and_Delegates\obj\x86\Debug\Events_and_Delegates.exe
+C:\Users\JOSIAH MWANGI\documents\visual studio 2010\Projects\Events_and_Delegates\Events_and_Delegates\obj\x86\Debug\Events_and_Delegates.pdb
